@@ -4,7 +4,7 @@ Sky FPS Selector is an extension designed for Canvas Mod Loader, allowing users 
 
 ## Overview
 
-This repository houses the latest releases of the Sky FPS Selector extension, made by by Kiojeen - Ilias.
+This repository houses the latest releases of the Sky FPS Selector extension, made by Kiojeen - Ilias.
 
 ## Installation
 
